@@ -12,3 +12,8 @@ Collision
 train data: 4528
 validation data: 1133
 🧮 Total: 5661 images
+
+## 🎥 Detection Demo
+<p align="center">
+  <img src="1-flandslide-demo.gif" width="100%"/>
+</p>
